@@ -1,0 +1,15 @@
+v2.0
+changes:
+  -Added script builder
+  -Added manual prompts
+  
+v2.0.1
+  changes:
+  -Properties section fixes
+  -Enable export-frame dragging only when its properties are on
+
+v2.0.2
+  changes:
+  -Added screenshot option in utility
+  -Improved status tabs
+  -Added option to clear canvas in export frame properties
